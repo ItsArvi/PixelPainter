@@ -1,6 +1,3 @@
-## THIS PROJECT IS NO LONGER MAINTAINED
-**A new version built with Avalonia is in dev:**
-[PixelPainter_Avalonia](https://github.com/ArviPlay/PixelPainter_Avalonia)
 # Pixel Painter
 
 convert any image into a pixel-by-pixel mouse painting - automatically
